@@ -1,0 +1,6 @@
+# MacKeySwapper 相依套件
+# 安裝方式：pip install -r requirements.txt
+
+pystray>=0.19.5       # System Tray 圖示
+Pillow>=10.0.0        # 圖示圖片處理（pystray 相依）
+pywin32>=306          # Win32 API（Hook、Raw Input、Registry）
