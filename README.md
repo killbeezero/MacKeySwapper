@@ -2,6 +2,10 @@
 
 > 一個在 Windows 下針對單一鍵盤做按鍵對應的常駐小程式，專為 Mac 鍵盤接 PC 使用情境設計。
 
+![Settings UI - Screenshot 01](asset/screenshot01.png)
+
+![Settings UI - Screenshot 02](asset/screenshot02.png)
+
 ---
 
 ## 目錄
